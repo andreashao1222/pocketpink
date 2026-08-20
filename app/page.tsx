@@ -141,7 +141,7 @@ export default function Home() {
         <header className="header">
           <div>
             <div className="eyebrow">♡ my little money diary</div>
-            <h1>Pocket Pink</h1>
+            <h1>Pocket NOTE</h1>
             <p>small choices, softer spending ✧</p>
           </div>
           <div className="todayPill">today · {today.slice(5).replace("-", ".")}</div>
